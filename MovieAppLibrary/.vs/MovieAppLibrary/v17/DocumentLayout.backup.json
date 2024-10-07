@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 20\\MovieApplicationWithDll\\MovieAppLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEA52ACE-19BD-4EE9-8298-CFD46EE6B6DB}|MovieAppLibrary\\MovieAppLibrary.csproj|c:\\users\\suraj\\onedrive\\desktop\\internship\\day 20\\movieapplicationwithdll\\movieapplibrary\\movieapplibrary\\services\\serialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEA52ACE-19BD-4EE9-8298-CFD46EE6B6DB}|MovieAppLibrary\\MovieAppLibrary.csproj|solutionrelative:movieapplibrary\\services\\serialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEA52ACE-19BD-4EE9-8298-CFD46EE6B6DB}|MovieAppLibrary\\MovieAppLibrary.csproj|c:\\users\\suraj\\onedrive\\desktop\\internship\\day 20\\movieapplicationwithdll\\movieapplibrary\\movieapplibrary\\controller\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEA52ACE-19BD-4EE9-8298-CFD46EE6B6DB}|MovieAppLibrary\\MovieAppLibrary.csproj|solutionrelative:movieapplibrary\\controller\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEA52ACE-19BD-4EE9-8298-CFD46EE6B6DB}|MovieAppLibrary\\MovieAppLibrary.csproj|c:\\users\\suraj\\onedrive\\desktop\\internship\\day 20\\movieapplicationwithdll\\movieapplibrary\\movieapplibrary\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEA52ACE-19BD-4EE9-8298-CFD46EE6B6DB}|MovieAppLibrary\\MovieAppLibrary.csproj|solutionrelative:movieapplibrary\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Serialization.cs",
+              "DocumentMoniker": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 20\\MovieApplicationWithDll\\MovieAppLibrary\\MovieAppLibrary\\Services\\Serialization.cs",
+              "RelativeDocumentMoniker": "MovieAppLibrary\\Services\\Serialization.cs",
+              "ToolTip": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 20\\MovieApplicationWithDll\\MovieAppLibrary\\MovieAppLibrary\\Services\\Serialization.cs",
+              "RelativeToolTip": "MovieAppLibrary\\Services\\Serialization.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T13:01:08.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 20\\MovieApplicationWithDll\\MovieAppLibrary\\MovieAppLibrary\\Controller\\MovieController.cs",
+              "RelativeDocumentMoniker": "MovieAppLibrary\\Controller\\MovieController.cs",
+              "ToolTip": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 20\\MovieApplicationWithDll\\MovieAppLibrary\\MovieAppLibrary\\Controller\\MovieController.cs",
+              "RelativeToolTip": "MovieAppLibrary\\Controller\\MovieController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:09:24.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 20\\MovieApplicationWithDll\\MovieAppLibrary\\MovieAppLibrary\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "MovieAppLibrary\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 20\\MovieApplicationWithDll\\MovieAppLibrary\\MovieAppLibrary\\Models\\Movie.cs",
+              "RelativeToolTip": "MovieAppLibrary\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:00:59.454Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
