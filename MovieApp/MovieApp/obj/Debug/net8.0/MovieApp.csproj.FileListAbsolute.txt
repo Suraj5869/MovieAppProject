@@ -34,3 +34,4 @@ C:\Users\Suraj\OneDrive\Desktop\internship\Day 20\MovieApplicationWithDll\MovieA
 C:\Users\Suraj\OneDrive\Desktop\internship\Day 20\MovieApplicationWithDll\MovieApp\MovieApp\obj\Debug\net8.0\MovieApp.pdb
 C:\Users\Suraj\OneDrive\Desktop\internship\Day 20\MovieApplicationWithDll\MovieApp\MovieApp\obj\Debug\net8.0\MovieApp.genruntimeconfig.cache
 C:\Users\Suraj\OneDrive\Desktop\internship\Day 20\MovieApplicationWithDll\MovieApp\MovieApp\obj\Debug\net8.0\ref\MovieApp.dll
+C:\Users\Suraj\OneDrive\Desktop\internship\Day 20\MovieApplicationWithDll\MovieApp\MovieApp\obj\Debug\net8.0\MovieApp.sourcelink.json

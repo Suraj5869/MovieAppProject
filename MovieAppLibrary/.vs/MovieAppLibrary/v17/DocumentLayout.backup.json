@@ -45,7 +45,7 @@
               "RelativeDocumentMoniker": "MovieAppLibrary\\Controller\\MovieController.cs",
               "ToolTip": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 20\\MovieApplicationWithDll\\MovieAppLibrary\\MovieAppLibrary\\Controller\\MovieController.cs",
               "RelativeToolTip": "MovieAppLibrary\\Controller\\MovieController.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAowB4AAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAEkAAAAAAAAAAADwvx4AAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-07T12:09:24.89Z",
               "EditorCaption": ""
@@ -60,7 +60,8 @@
               "RelativeToolTip": "MovieAppLibrary\\Models\\Movie.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T12:00:59.454Z"
+              "WhenOpened": "2024-10-07T12:00:59.454Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -122,10 +122,9 @@ namespace MovieApp.Presentation
                 int id = int.Parse(Console.ReadLine());
                 var movie = manager.GetMovie(id);//get the movie with id if not present then throws an exception
                 Console.WriteLine($"What you have to edit:\n" +
-                    $"1. Id\n" +
-                    $"2. Name\n" +
-                    $"3. Genre\n" +
-                    $"4. Year\n");
+                    $"1. Name\n" +
+                    $"2. Genre\n" +
+                    $"3. Year\n");
                 int choice = int.Parse(Console.ReadLine());
                 EditSwitch(choice, movie);
             }
@@ -144,34 +143,15 @@ namespace MovieApp.Presentation
             switch (choice)
             {
                 case 1:
-                    EditId(movie);
-                    break;
-                case 2:
                     EditName(movie);
                     break;
-                case 3:
+                case 2:
                     EditGenre(movie);
                     break;
-                case 4:
+                case 3:
                     EditYear(movie);
                     break;
             };
-        }
-
-        public static void EditId(Movie movie)
-        {
-            Console.WriteLine("Enter New movie Id:");
-            int id = int.Parse(Console.ReadLine());
-            try
-            {
-                manager.CheckMovie(id);//checks the movie store with same movie id present or not if present then throws an exception
-                movie.MovieId = id;
-                Console.WriteLine("Movie Id Updated!\n");
-            }
-            catch(MovieAlreadyExistException me)
-            {
-                Console.WriteLine(me.Message);
-            }
         }
 
         public static void EditName(Movie movie) 
