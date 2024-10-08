@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 20\\MovieApplicationWithDll\\MovieAppLibrary\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BEA52ACE-19BD-4EE9-8298-CFD46EE6B6DB}|MovieAppLibrary\\MovieAppLibrary.csproj|c:\\users\\suraj\\onedrive\\desktop\\internship\\day 20\\movieapplicationwithdll\\movieapplibrary\\movieapplibrary\\services\\serialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEA52ACE-19BD-4EE9-8298-CFD46EE6B6DB}|MovieAppLibrary\\MovieAppLibrary.csproj|solutionrelative:movieapplibrary\\services\\serialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BEA52ACE-19BD-4EE9-8298-CFD46EE6B6DB}|MovieAppLibrary\\MovieAppLibrary.csproj|c:\\users\\suraj\\onedrive\\desktop\\internship\\day 20\\movieapplicationwithdll\\movieapplibrary\\movieapplibrary\\controller\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BEA52ACE-19BD-4EE9-8298-CFD46EE6B6DB}|MovieAppLibrary\\MovieAppLibrary.csproj|solutionrelative:movieapplibrary\\controller\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEA52ACE-19BD-4EE9-8298-CFD46EE6B6DB}|MovieAppLibrary\\MovieAppLibrary.csproj|c:\\users\\suraj\\onedrive\\desktop\\internship\\day 20\\movieapplicationwithdll\\movieapplibrary\\movieapplibrary\\services\\serialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEA52ACE-19BD-4EE9-8298-CFD46EE6B6DB}|MovieAppLibrary\\MovieAppLibrary.csproj|solutionrelative:movieapplibrary\\services\\serialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BEA52ACE-19BD-4EE9-8298-CFD46EE6B6DB}|MovieAppLibrary\\MovieAppLibrary.csproj|c:\\users\\suraj\\onedrive\\desktop\\internship\\day 20\\movieapplicationwithdll\\movieapplibrary\\movieapplibrary\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Serialization.cs",
               "DocumentMoniker": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 20\\MovieApplicationWithDll\\MovieAppLibrary\\MovieAppLibrary\\Services\\Serialization.cs",
               "RelativeDocumentMoniker": "MovieAppLibrary\\Services\\Serialization.cs",
@@ -39,13 +39,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MovieController.cs",
               "DocumentMoniker": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 20\\MovieApplicationWithDll\\MovieAppLibrary\\MovieAppLibrary\\Controller\\MovieController.cs",
               "RelativeDocumentMoniker": "MovieAppLibrary\\Controller\\MovieController.cs",
               "ToolTip": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 20\\MovieApplicationWithDll\\MovieAppLibrary\\MovieAppLibrary\\Controller\\MovieController.cs",
               "RelativeToolTip": "MovieAppLibrary\\Controller\\MovieController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAABhAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowB4AAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-07T12:09:24.89Z",
               "EditorCaption": ""

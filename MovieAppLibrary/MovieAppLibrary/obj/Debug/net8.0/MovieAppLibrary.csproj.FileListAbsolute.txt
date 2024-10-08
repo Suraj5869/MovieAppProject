@@ -22,3 +22,4 @@ C:\Users\Suraj\OneDrive\Desktop\internship\Day 20\MovieApplicationWithDll\MovieA
 C:\Users\Suraj\OneDrive\Desktop\internship\Day 20\MovieApplicationWithDll\MovieAppLibrary\MovieAppLibrary\obj\Debug\net8.0\refint\MovieAppLibrary.dll
 C:\Users\Suraj\OneDrive\Desktop\internship\Day 20\MovieApplicationWithDll\MovieAppLibrary\MovieAppLibrary\obj\Debug\net8.0\MovieAppLibrary.pdb
 C:\Users\Suraj\OneDrive\Desktop\internship\Day 20\MovieApplicationWithDll\MovieAppLibrary\MovieAppLibrary\obj\Debug\net8.0\ref\MovieAppLibrary.dll
+C:\Users\Suraj\OneDrive\Desktop\internship\Day 20\MovieApplicationWithDll\MovieAppLibrary\MovieAppLibrary\obj\Debug\net8.0\MovieAppLibrary.sourcelink.json

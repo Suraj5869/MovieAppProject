@@ -18,7 +18,7 @@ namespace MovieAppLibrary.Controller
 
         public void DisplayMovies()
         {
-            IsEmpty();
+            IsEmpty();//Checks if the movie list is empty or not if it is empty then it throws an exception
             foreach (var movie in movies)
             {
                 Console.WriteLine(movie);
@@ -28,7 +28,7 @@ namespace MovieAppLibrary.Controller
         public void AddNewMovie(int id, string name, string genre, int year)
         {
             var movie = new Movie(id, name, genre, year);
-            movies.Add(movie);
+            movies.Add(movie);//Add the movie with data in list
             size++;
         }
         public void RemoveAll()
@@ -38,7 +38,7 @@ namespace MovieAppLibrary.Controller
 
         public Movie GetMovie(int id)
         {
-            var movie = movies.Where(movie => movie.MovieId == id).FirstOrDefault();
+            var movie = movies.Where(movie => movie.MovieId == id).FirstOrDefault();//Get the movie with same id entered by user if not present then return null
             if (movie == null)
             {
                 throw new InvalidMovieException("Movie does not exist!!\n");
@@ -47,7 +47,7 @@ namespace MovieAppLibrary.Controller
         }
         public Movie GetMovie(string name)
         {
-            var movie = movies.Where(movie => movie.MovieName == name).FirstOrDefault();
+            var movie = movies.Where(movie => movie.MovieName == name).FirstOrDefault();//Get the movie with same name entered by user if not present then return null
             if (movie == null)
             {
                 throw new InvalidMovieException("Movie does not exist!!\n");
@@ -57,19 +57,19 @@ namespace MovieAppLibrary.Controller
 
         public void DeleteMovie(Movie movie)
         {
-            movies = movies.Where(element => element != movie).ToList();
+            movies = movies.Where(element => element != movie).ToList();//Add movies which is not equal to movie user want to delete in list
         }
 
         public void CheckMovie(string name)
         {
-            var movie = movies.Where(movie => movie.MovieName == name).FirstOrDefault();
+            var movie = movies.Where(movie => movie.MovieName == name).FirstOrDefault();//Get the movie with same name entered by user if not present then return null
             if (movie != null) {
                 throw new MovieAlreadyExistException($"{name} is already exist in the movie store!!\n");
             }
         }
         public void CheckMovie(int id)
         {
-            var movie = movies.Where(movie => movie.MovieId == id).FirstOrDefault();
+            var movie = movies.Where(movie => movie.MovieId == id).FirstOrDefault();//Get the movie with same id entered by user if not present then return null
             if (movie != null) 
             {
                 throw new MovieAlreadyExistException($"movie with id {id} is already exist!!\n");
